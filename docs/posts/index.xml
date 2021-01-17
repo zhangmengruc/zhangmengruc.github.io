@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on zhangmengruc&#39;s Blog</title>
-    <link>https://zhangmengruc.github.io/categories/</link>
-    <description>Recent content in Categories on zhangmengruc&#39;s Blog</description>
+    <title>Posts on zhangmengruc&#39;s Blog</title>
+    <link>https://zhangmengruc.github.io/posts/</link>
+    <description>Recent content in Posts on zhangmengruc&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>CC BY 4.0 CN</copyright>
+    <lastBuildDate>Sun, 17 Jan 2021 18:13:02 +0800</lastBuildDate>
     
-        <atom:link href="https://zhangmengruc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://zhangmengruc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
